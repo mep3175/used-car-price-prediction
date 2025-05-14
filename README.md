@@ -1,5 +1,5 @@
 
-# 🚗 Used Car Price Prediction with Machine Learning
+# 🚗 Used Car Price Prediction with Machine Learning.
 
 This project predicts the **selling price of used cars** using real-world data and machine learning models such as **Linear Regression** and **Random Forest Regressor**. We focus on data cleaning, feature engineering, model training, hyperparameter tuning, and evaluation to build a reliable price prediction system.
 
